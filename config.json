@@ -5,7 +5,7 @@
     "botName": "tribubot ",
     "footer": "TribuBot",
     "sessionName": "session",
-    "pathimg": "./media/Haruka.jpg",
+    "pathimg": "./media/Screenshot_2022-08-22-19-49-23-05.jpg",
     "BotKey": "V12",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
